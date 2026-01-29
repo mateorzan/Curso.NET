@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\mateo.iglesias\\source\\repos\\Curso.NET\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mateo.iglesias\\source\\repos\\Curso.NET\\S01E02_antes_\\src\\MasterNet.Domain\\Courses\\Course.cs||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:S01E02_antes_\\src\\MasterNet.Domain\\Courses\\Course.cs||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mateo.iglesias\\source\\repos\\Curso.NET\\S09E02\\S09E02\\gitignore.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:S09E02\\S09E02\\gitignore.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mateo.iglesias\\source\\repos\\Curso.NET\\S01E02_antes_\\src\\MasterNet.WebApi\\MasterNet.WebApi.http||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:S01E02_antes_\\src\\MasterNet.WebApi\\MasterNet.WebApi.http||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mateo.iglesias\\source\\repos\\Curso.NET\\S01E02_antes_\\src\\MasterNet.Infrastructure\\DependencyInjection.cs||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:S01E02_antes_\\src\\MasterNet.Infrastructure\\DependencyInjection.cs||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mateo.iglesias\\source\\repos\\Curso.NET\\holA.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:holA.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
@@ -27,6 +43,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\mateo.iglesias\\source\\repos\\Curso.NET\\S01E02_antes_\\src\\MasterNet.Domain\\Courses\\Course.cs",
+              "RelativeDocumentMoniker": "S01E02_antes_\\src\\MasterNet.Domain\\Courses\\Course.cs",
+              "ToolTip": "C:\\Users\\mateo.iglesias\\source\\repos\\Curso.NET\\S01E02_antes_\\src\\MasterNet.Domain\\Courses\\Course.cs",
+              "RelativeToolTip": "S01E02_antes_\\src\\MasterNet.Domain\\Courses\\Course.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T07:48:49.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "gitignore.txt",
+              "DocumentMoniker": "C:\\Users\\mateo.iglesias\\source\\repos\\Curso.NET\\S09E02\\S09E02\\gitignore.txt",
+              "RelativeDocumentMoniker": "S09E02\\S09E02\\gitignore.txt",
+              "ToolTip": "C:\\Users\\mateo.iglesias\\source\\repos\\Curso.NET\\S09E02\\S09E02\\gitignore.txt",
+              "RelativeToolTip": "S09E02\\S09E02\\gitignore.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-01-29T07:48:27.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MasterNet.WebApi.http",
+              "DocumentMoniker": "C:\\Users\\mateo.iglesias\\source\\repos\\Curso.NET\\S01E02_antes_\\src\\MasterNet.WebApi\\MasterNet.WebApi.http",
+              "RelativeDocumentMoniker": "S01E02_antes_\\src\\MasterNet.WebApi\\MasterNet.WebApi.http",
+              "ToolTip": "C:\\Users\\mateo.iglesias\\source\\repos\\Curso.NET\\S01E02_antes_\\src\\MasterNet.WebApi\\MasterNet.WebApi.http",
+              "RelativeToolTip": "S01E02_antes_\\src\\MasterNet.WebApi\\MasterNet.WebApi.http",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAB8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-01-27T14:08:21.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\mateo.iglesias\\source\\repos\\Curso.NET\\S01E02_antes_\\src\\MasterNet.Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "S01E02_antes_\\src\\MasterNet.Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\mateo.iglesias\\source\\repos\\Curso.NET\\S01E02_antes_\\src\\MasterNet.Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "S01E02_antes_\\src\\MasterNet.Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T14:07:30.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "holA.txt",
               "DocumentMoniker": "C:\\Users\\mateo.iglesias\\source\\repos\\Curso.NET\\holA.txt",
               "RelativeDocumentMoniker": "holA.txt",
@@ -34,12 +97,11 @@
               "RelativeToolTip": "holA.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2026-01-27T13:57:52.421Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-27T13:57:52.421Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "docker-compose.yml",
               "DocumentMoniker": "C:\\Users\\mateo.iglesias\\source\\repos\\Curso.NET\\S01E02_antes_\\docker-compose.yml",
               "RelativeDocumentMoniker": "S01E02_antes_\\docker-compose.yml",
@@ -47,8 +109,7 @@
               "RelativeToolTip": "S01E02_antes_\\docker-compose.yml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2026-01-27T13:48:26.8Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-27T13:48:26.8Z"
             }
           ]
         }

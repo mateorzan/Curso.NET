@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "puzNQblm2eM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mateo.iglesias\\source\\repos\\Curso.NET\\S01E02_antes_\\libs\\Core.MediatOR\\Core.MediatOR.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mateo.iglesias\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\10.0.0-rc.1.25451.107\\microsoft.extensions.dependencyinjection.10.0.0-rc.1.25451.107.nupkg.sha512",
+    "C:\\Users\\mateo.iglesias\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.0-rc.1.25451.107\\microsoft.extensions.dependencyinjection.abstractions.10.0.0-rc.1.25451.107.nupkg.sha512",
+    "C:\\Users\\mateo.iglesias\\.nuget\\packages\\microsoft.extensions.dependencymodel\\8.0.2\\microsoft.extensions.dependencymodel.8.0.2.nupkg.sha512",
+    "C:\\Users\\mateo.iglesias\\.nuget\\packages\\scrutor\\6.0.1\\scrutor.6.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

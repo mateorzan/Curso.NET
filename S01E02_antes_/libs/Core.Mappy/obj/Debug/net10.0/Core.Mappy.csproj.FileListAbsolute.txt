@@ -1,0 +1,13 @@
+C:\Users\mateo.iglesias\source\repos\Curso.NET\S01E02_antes_\libs\Core.Mappy\bin\Debug\net10.0\Core.Mappy.deps.json
+C:\Users\mateo.iglesias\source\repos\Curso.NET\S01E02_antes_\libs\Core.Mappy\bin\Debug\net10.0\Core.Mappy.dll
+C:\Users\mateo.iglesias\source\repos\Curso.NET\S01E02_antes_\libs\Core.Mappy\bin\Debug\net10.0\Core.Mappy.pdb
+C:\Users\mateo.iglesias\source\repos\Curso.NET\S01E02_antes_\libs\Core.Mappy\obj\Debug\net10.0\Core.Mappy.csproj.AssemblyReference.cache
+C:\Users\mateo.iglesias\source\repos\Curso.NET\S01E02_antes_\libs\Core.Mappy\obj\Debug\net10.0\Core.Mappy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateo.iglesias\source\repos\Curso.NET\S01E02_antes_\libs\Core.Mappy\obj\Debug\net10.0\Core.Mappy.AssemblyInfoInputs.cache
+C:\Users\mateo.iglesias\source\repos\Curso.NET\S01E02_antes_\libs\Core.Mappy\obj\Debug\net10.0\Core.Mappy.AssemblyInfo.cs
+C:\Users\mateo.iglesias\source\repos\Curso.NET\S01E02_antes_\libs\Core.Mappy\obj\Debug\net10.0\Core.Mappy.csproj.CoreCompileInputs.cache
+C:\Users\mateo.iglesias\source\repos\Curso.NET\S01E02_antes_\libs\Core.Mappy\obj\Debug\net10.0\Core.Mappy.sourcelink.json
+C:\Users\mateo.iglesias\source\repos\Curso.NET\S01E02_antes_\libs\Core.Mappy\obj\Debug\net10.0\Core.Mappy.dll
+C:\Users\mateo.iglesias\source\repos\Curso.NET\S01E02_antes_\libs\Core.Mappy\obj\Debug\net10.0\refint\Core.Mappy.dll
+C:\Users\mateo.iglesias\source\repos\Curso.NET\S01E02_antes_\libs\Core.Mappy\obj\Debug\net10.0\Core.Mappy.pdb
+C:\Users\mateo.iglesias\source\repos\Curso.NET\S01E02_antes_\libs\Core.Mappy\obj\Debug\net10.0\ref\Core.Mappy.dll

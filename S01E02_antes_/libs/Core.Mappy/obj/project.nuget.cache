@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ozBegymdYcQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mateo.iglesias\\source\\repos\\Curso.NET\\S01E02_antes_\\libs\\Core.Mappy\\Core.Mappy.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mateo.iglesias\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.0-rc.1.25451.107\\microsoft.extensions.dependencyinjection.abstractions.10.0.0-rc.1.25451.107.nupkg.sha512"
+  ],
+  "logs": []
+}

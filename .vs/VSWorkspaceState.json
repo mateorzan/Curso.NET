@@ -1,8 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\S01E02_antes_"
+    "\\S01E02_antes_",
+    "\\S01E02_antes_\\src",
+    "\\S01E02_antes_\\src\\MasterNet.Application\\Accounts",
+    "\\S01E02_antes_\\src\\MasterNet.Domain",
+    "\\S01E02_antes_\\src\\MasterNet.Domain\\Courses",
+    "\\S01E02_antes_\\src\\MasterNet.WebApi",
+    "\\S01E04",
+    "\\S09E02",
+    "\\S09E02\\S09E02"
   ],
-  "SelectedNode": "\\holA.txt",
+  "SelectedNode": "\\S01E02_antes_\\src\\MasterNet.Application",
   "PreviewInSolutionExplorer": false
 }

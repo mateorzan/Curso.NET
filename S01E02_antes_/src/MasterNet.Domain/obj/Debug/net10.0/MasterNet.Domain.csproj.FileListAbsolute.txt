@@ -1,0 +1,12 @@
+C:\Users\mateo.iglesias\source\repos\Curso.NET\S01E02_antes_\src\MasterNet.Domain\bin\Debug\net10.0\MasterNet.Domain.deps.json
+C:\Users\mateo.iglesias\source\repos\Curso.NET\S01E02_antes_\src\MasterNet.Domain\bin\Debug\net10.0\MasterNet.Domain.dll
+C:\Users\mateo.iglesias\source\repos\Curso.NET\S01E02_antes_\src\MasterNet.Domain\bin\Debug\net10.0\MasterNet.Domain.pdb
+C:\Users\mateo.iglesias\source\repos\Curso.NET\S01E02_antes_\src\MasterNet.Domain\obj\Debug\net10.0\MasterNet.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateo.iglesias\source\repos\Curso.NET\S01E02_antes_\src\MasterNet.Domain\obj\Debug\net10.0\MasterNet.Domain.AssemblyInfoInputs.cache
+C:\Users\mateo.iglesias\source\repos\Curso.NET\S01E02_antes_\src\MasterNet.Domain\obj\Debug\net10.0\MasterNet.Domain.AssemblyInfo.cs
+C:\Users\mateo.iglesias\source\repos\Curso.NET\S01E02_antes_\src\MasterNet.Domain\obj\Debug\net10.0\MasterNet.Domain.csproj.CoreCompileInputs.cache
+C:\Users\mateo.iglesias\source\repos\Curso.NET\S01E02_antes_\src\MasterNet.Domain\obj\Debug\net10.0\MasterNet.Domain.sourcelink.json
+C:\Users\mateo.iglesias\source\repos\Curso.NET\S01E02_antes_\src\MasterNet.Domain\obj\Debug\net10.0\MasterNet.Domain.dll
+C:\Users\mateo.iglesias\source\repos\Curso.NET\S01E02_antes_\src\MasterNet.Domain\obj\Debug\net10.0\refint\MasterNet.Domain.dll
+C:\Users\mateo.iglesias\source\repos\Curso.NET\S01E02_antes_\src\MasterNet.Domain\obj\Debug\net10.0\MasterNet.Domain.pdb
+C:\Users\mateo.iglesias\source\repos\Curso.NET\S01E02_antes_\src\MasterNet.Domain\obj\Debug\net10.0\ref\MasterNet.Domain.dll

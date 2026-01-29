@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\MasterNet\\src\\MasterNet.Application\\MasterNet.Application.csproj": {}
+    "C:\\Users\\mateo.iglesias\\source\\repos\\Curso.NET\\S01E02_antes_\\src\\MasterNet.Application\\MasterNet.Application.csproj": {}
   },
   "projects": {
-    "C:\\MasterNet\\libs\\Core.Mappy\\Core.Mappy.csproj": {
+    "C:\\Users\\mateo.iglesias\\source\\repos\\Curso.NET\\S01E02_antes_\\libs\\Core.Mappy\\Core.Mappy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\MasterNet\\libs\\Core.Mappy\\Core.Mappy.csproj",
+        "projectUniqueName": "C:\\Users\\mateo.iglesias\\source\\repos\\Curso.NET\\S01E02_antes_\\libs\\Core.Mappy\\Core.Mappy.csproj",
         "projectName": "Core.Mappy",
-        "projectPath": "C:\\MasterNet\\libs\\Core.Mappy\\Core.Mappy.csproj",
-        "packagesPath": "C:\\Users\\javix\\.nuget\\packages\\",
-        "outputPath": "C:\\MasterNet\\libs\\Core.Mappy\\obj\\",
+        "projectPath": "C:\\Users\\mateo.iglesias\\source\\repos\\Curso.NET\\S01E02_antes_\\libs\\Core.Mappy\\Core.Mappy.csproj",
+        "packagesPath": "C:\\Users\\mateo.iglesias\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mateo.iglesias\\source\\repos\\Curso.NET\\S01E02_antes_\\libs\\Core.Mappy\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\javix\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mateo.iglesias\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -220,7 +219,7 @@
             "System.Buffers": "(,5.0.32767]",
             "System.Collections": "(,4.3.32767]",
             "System.Collections.Concurrent": "(,4.3.32767]",
-            "System.Collections.Immutable": "(,10.0.0-rc.1.25451.107]",
+            "System.Collections.Immutable": "(,10.0.32767]",
             "System.Collections.NonGeneric": "(,4.3.32767]",
             "System.Collections.Specialized": "(,4.3.32767]",
             "System.ComponentModel": "(,4.3.32767]",
@@ -233,7 +232,7 @@
             "System.Data.DataSetExtensions": "(,4.4.32767]",
             "System.Diagnostics.Contracts": "(,4.3.32767]",
             "System.Diagnostics.Debug": "(,4.3.32767]",
-            "System.Diagnostics.DiagnosticSource": "(,10.0.0-rc.1.25451.107]",
+            "System.Diagnostics.DiagnosticSource": "(,10.0.32767]",
             "System.Diagnostics.FileVersionInfo": "(,4.3.32767]",
             "System.Diagnostics.Process": "(,4.3.32767]",
             "System.Diagnostics.StackTrace": "(,4.3.32767]",
@@ -243,8 +242,8 @@
             "System.Diagnostics.Tracing": "(,4.3.32767]",
             "System.Drawing.Primitives": "(,4.3.32767]",
             "System.Dynamic.Runtime": "(,4.3.32767]",
-            "System.Formats.Asn1": "(,10.0.0-rc.1.25451.107]",
-            "System.Formats.Tar": "(,10.0.0-rc.1.25451.107]",
+            "System.Formats.Asn1": "(,10.0.32767]",
+            "System.Formats.Tar": "(,10.0.32767]",
             "System.Globalization": "(,4.3.32767]",
             "System.Globalization.Calendars": "(,4.3.32767]",
             "System.Globalization.Extensions": "(,4.3.32767]",
@@ -258,25 +257,25 @@
             "System.IO.FileSystem.Watcher": "(,4.3.32767]",
             "System.IO.IsolatedStorage": "(,4.3.32767]",
             "System.IO.MemoryMappedFiles": "(,4.3.32767]",
-            "System.IO.Pipelines": "(,10.0.0-rc.1.25451.107]",
+            "System.IO.Pipelines": "(,10.0.32767]",
             "System.IO.Pipes": "(,4.3.32767]",
             "System.IO.Pipes.AccessControl": "(,5.0.32767]",
             "System.IO.UnmanagedMemoryStream": "(,4.3.32767]",
             "System.Linq": "(,4.3.32767]",
-            "System.Linq.AsyncEnumerable": "(,10.0.0-rc.1.25451.107]",
+            "System.Linq.AsyncEnumerable": "(,10.0.32767]",
             "System.Linq.Expressions": "(,4.3.32767]",
             "System.Linq.Parallel": "(,4.3.32767]",
             "System.Linq.Queryable": "(,4.3.32767]",
             "System.Memory": "(,5.0.32767]",
             "System.Net.Http": "(,4.3.32767]",
-            "System.Net.Http.Json": "(,10.0.0-rc.1.25451.107]",
+            "System.Net.Http.Json": "(,10.0.32767]",
             "System.Net.NameResolution": "(,4.3.32767]",
             "System.Net.NetworkInformation": "(,4.3.32767]",
             "System.Net.Ping": "(,4.3.32767]",
             "System.Net.Primitives": "(,4.3.32767]",
             "System.Net.Requests": "(,4.3.32767]",
             "System.Net.Security": "(,4.3.32767]",
-            "System.Net.ServerSentEvents": "(,10.0.0-rc.1.25451.107]",
+            "System.Net.ServerSentEvents": "(,10.0.32767]",
             "System.Net.Sockets": "(,4.3.32767]",
             "System.Net.WebHeaderCollection": "(,4.3.32767]",
             "System.Net.WebSockets": "(,4.3.32767]",
@@ -291,7 +290,7 @@
             "System.Reflection.Emit.ILGeneration": "(,4.7.32767]",
             "System.Reflection.Emit.Lightweight": "(,4.7.32767]",
             "System.Reflection.Extensions": "(,4.3.32767]",
-            "System.Reflection.Metadata": "(,10.0.0-rc.1.25451.107]",
+            "System.Reflection.Metadata": "(,10.0.32767]",
             "System.Reflection.Primitives": "(,4.3.32767]",
             "System.Reflection.TypeExtensions": "(,4.3.32767]",
             "System.Resources.Reader": "(,4.3.32767]",
@@ -323,16 +322,17 @@
             "System.Security.Principal.Windows": "(,5.0.32767]",
             "System.Security.SecureString": "(,4.3.32767]",
             "System.Text.Encoding": "(,4.3.32767]",
-            "System.Text.Encoding.CodePages": "(,10.0.0-rc.1.25451.107]",
+            "System.Text.Encoding.CodePages": "(,10.0.32767]",
             "System.Text.Encoding.Extensions": "(,4.3.32767]",
-            "System.Text.Encodings.Web": "(,10.0.0-rc.1.25451.107]",
-            "System.Text.Json": "(,10.0.0-rc.1.25451.107]",
+            "System.Text.Encodings.Web": "(,10.0.32767]",
+            "System.Text.Json": "(,10.0.32767]",
             "System.Text.RegularExpressions": "(,4.3.32767]",
             "System.Threading": "(,4.3.32767]",
-            "System.Threading.Channels": "(,10.0.0-rc.1.25451.107]",
+            "System.Threading.AccessControl": "(,10.0.32767]",
+            "System.Threading.Channels": "(,10.0.32767]",
             "System.Threading.Overlapped": "(,4.3.32767]",
             "System.Threading.Tasks": "(,4.3.32767]",
-            "System.Threading.Tasks.Dataflow": "(,10.0.0-rc.1.25451.107]",
+            "System.Threading.Tasks.Dataflow": "(,10.0.32767]",
             "System.Threading.Tasks.Extensions": "(,5.0.32767]",
             "System.Threading.Tasks.Parallel": "(,4.3.32767]",
             "System.Threading.Thread": "(,4.3.32767]",
@@ -349,20 +349,20 @@
         }
       }
     },
-    "C:\\MasterNet\\libs\\Core.MediatOR\\Core.MediatOR.csproj": {
+    "C:\\Users\\mateo.iglesias\\source\\repos\\Curso.NET\\S01E02_antes_\\libs\\Core.MediatOR\\Core.MediatOR.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\MasterNet\\libs\\Core.MediatOR\\Core.MediatOR.csproj",
+        "projectUniqueName": "C:\\Users\\mateo.iglesias\\source\\repos\\Curso.NET\\S01E02_antes_\\libs\\Core.MediatOR\\Core.MediatOR.csproj",
         "projectName": "Core.MediatOR",
-        "projectPath": "C:\\MasterNet\\libs\\Core.MediatOR\\Core.MediatOR.csproj",
-        "packagesPath": "C:\\Users\\javix\\.nuget\\packages\\",
-        "outputPath": "C:\\MasterNet\\libs\\Core.MediatOR\\obj\\",
+        "projectPath": "C:\\Users\\mateo.iglesias\\source\\repos\\Curso.NET\\S01E02_antes_\\libs\\Core.MediatOR\\Core.MediatOR.csproj",
+        "packagesPath": "C:\\Users\\mateo.iglesias\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mateo.iglesias\\source\\repos\\Curso.NET\\S01E02_antes_\\libs\\Core.MediatOR\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\javix\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mateo.iglesias\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -371,7 +371,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -569,7 +568,7 @@
             "System.Buffers": "(,5.0.32767]",
             "System.Collections": "(,4.3.32767]",
             "System.Collections.Concurrent": "(,4.3.32767]",
-            "System.Collections.Immutable": "(,10.0.0-rc.1.25451.107]",
+            "System.Collections.Immutable": "(,10.0.32767]",
             "System.Collections.NonGeneric": "(,4.3.32767]",
             "System.Collections.Specialized": "(,4.3.32767]",
             "System.ComponentModel": "(,4.3.32767]",
@@ -582,7 +581,7 @@
             "System.Data.DataSetExtensions": "(,4.4.32767]",
             "System.Diagnostics.Contracts": "(,4.3.32767]",
             "System.Diagnostics.Debug": "(,4.3.32767]",
-            "System.Diagnostics.DiagnosticSource": "(,10.0.0-rc.1.25451.107]",
+            "System.Diagnostics.DiagnosticSource": "(,10.0.32767]",
             "System.Diagnostics.FileVersionInfo": "(,4.3.32767]",
             "System.Diagnostics.Process": "(,4.3.32767]",
             "System.Diagnostics.StackTrace": "(,4.3.32767]",
@@ -592,8 +591,8 @@
             "System.Diagnostics.Tracing": "(,4.3.32767]",
             "System.Drawing.Primitives": "(,4.3.32767]",
             "System.Dynamic.Runtime": "(,4.3.32767]",
-            "System.Formats.Asn1": "(,10.0.0-rc.1.25451.107]",
-            "System.Formats.Tar": "(,10.0.0-rc.1.25451.107]",
+            "System.Formats.Asn1": "(,10.0.32767]",
+            "System.Formats.Tar": "(,10.0.32767]",
             "System.Globalization": "(,4.3.32767]",
             "System.Globalization.Calendars": "(,4.3.32767]",
             "System.Globalization.Extensions": "(,4.3.32767]",
@@ -607,25 +606,25 @@
             "System.IO.FileSystem.Watcher": "(,4.3.32767]",
             "System.IO.IsolatedStorage": "(,4.3.32767]",
             "System.IO.MemoryMappedFiles": "(,4.3.32767]",
-            "System.IO.Pipelines": "(,10.0.0-rc.1.25451.107]",
+            "System.IO.Pipelines": "(,10.0.32767]",
             "System.IO.Pipes": "(,4.3.32767]",
             "System.IO.Pipes.AccessControl": "(,5.0.32767]",
             "System.IO.UnmanagedMemoryStream": "(,4.3.32767]",
             "System.Linq": "(,4.3.32767]",
-            "System.Linq.AsyncEnumerable": "(,10.0.0-rc.1.25451.107]",
+            "System.Linq.AsyncEnumerable": "(,10.0.32767]",
             "System.Linq.Expressions": "(,4.3.32767]",
             "System.Linq.Parallel": "(,4.3.32767]",
             "System.Linq.Queryable": "(,4.3.32767]",
             "System.Memory": "(,5.0.32767]",
             "System.Net.Http": "(,4.3.32767]",
-            "System.Net.Http.Json": "(,10.0.0-rc.1.25451.107]",
+            "System.Net.Http.Json": "(,10.0.32767]",
             "System.Net.NameResolution": "(,4.3.32767]",
             "System.Net.NetworkInformation": "(,4.3.32767]",
             "System.Net.Ping": "(,4.3.32767]",
             "System.Net.Primitives": "(,4.3.32767]",
             "System.Net.Requests": "(,4.3.32767]",
             "System.Net.Security": "(,4.3.32767]",
-            "System.Net.ServerSentEvents": "(,10.0.0-rc.1.25451.107]",
+            "System.Net.ServerSentEvents": "(,10.0.32767]",
             "System.Net.Sockets": "(,4.3.32767]",
             "System.Net.WebHeaderCollection": "(,4.3.32767]",
             "System.Net.WebSockets": "(,4.3.32767]",
@@ -640,7 +639,7 @@
             "System.Reflection.Emit.ILGeneration": "(,4.7.32767]",
             "System.Reflection.Emit.Lightweight": "(,4.7.32767]",
             "System.Reflection.Extensions": "(,4.3.32767]",
-            "System.Reflection.Metadata": "(,10.0.0-rc.1.25451.107]",
+            "System.Reflection.Metadata": "(,10.0.32767]",
             "System.Reflection.Primitives": "(,4.3.32767]",
             "System.Reflection.TypeExtensions": "(,4.3.32767]",
             "System.Resources.Reader": "(,4.3.32767]",
@@ -672,16 +671,17 @@
             "System.Security.Principal.Windows": "(,5.0.32767]",
             "System.Security.SecureString": "(,4.3.32767]",
             "System.Text.Encoding": "(,4.3.32767]",
-            "System.Text.Encoding.CodePages": "(,10.0.0-rc.1.25451.107]",
+            "System.Text.Encoding.CodePages": "(,10.0.32767]",
             "System.Text.Encoding.Extensions": "(,4.3.32767]",
-            "System.Text.Encodings.Web": "(,10.0.0-rc.1.25451.107]",
-            "System.Text.Json": "(,10.0.0-rc.1.25451.107]",
+            "System.Text.Encodings.Web": "(,10.0.32767]",
+            "System.Text.Json": "(,10.0.32767]",
             "System.Text.RegularExpressions": "(,4.3.32767]",
             "System.Threading": "(,4.3.32767]",
-            "System.Threading.Channels": "(,10.0.0-rc.1.25451.107]",
+            "System.Threading.AccessControl": "(,10.0.32767]",
+            "System.Threading.Channels": "(,10.0.32767]",
             "System.Threading.Overlapped": "(,4.3.32767]",
             "System.Threading.Tasks": "(,4.3.32767]",
-            "System.Threading.Tasks.Dataflow": "(,10.0.0-rc.1.25451.107]",
+            "System.Threading.Tasks.Dataflow": "(,10.0.32767]",
             "System.Threading.Tasks.Extensions": "(,5.0.32767]",
             "System.Threading.Tasks.Parallel": "(,4.3.32767]",
             "System.Threading.Thread": "(,4.3.32767]",
@@ -698,20 +698,20 @@
         }
       }
     },
-    "C:\\MasterNet\\src\\MasterNet.Application\\MasterNet.Application.csproj": {
+    "C:\\Users\\mateo.iglesias\\source\\repos\\Curso.NET\\S01E02_antes_\\src\\MasterNet.Application\\MasterNet.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\MasterNet\\src\\MasterNet.Application\\MasterNet.Application.csproj",
+        "projectUniqueName": "C:\\Users\\mateo.iglesias\\source\\repos\\Curso.NET\\S01E02_antes_\\src\\MasterNet.Application\\MasterNet.Application.csproj",
         "projectName": "MasterNet.Application",
-        "projectPath": "C:\\MasterNet\\src\\MasterNet.Application\\MasterNet.Application.csproj",
-        "packagesPath": "C:\\Users\\javix\\.nuget\\packages\\",
-        "outputPath": "C:\\MasterNet\\src\\MasterNet.Application\\obj\\",
+        "projectPath": "C:\\Users\\mateo.iglesias\\source\\repos\\Curso.NET\\S01E02_antes_\\src\\MasterNet.Application\\MasterNet.Application.csproj",
+        "packagesPath": "C:\\Users\\mateo.iglesias\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mateo.iglesias\\source\\repos\\Curso.NET\\S01E02_antes_\\src\\MasterNet.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\javix\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mateo.iglesias\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -720,24 +720,23 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\MasterNet\\libs\\Core.Mappy\\Core.Mappy.csproj": {
-                "projectPath": "C:\\MasterNet\\libs\\Core.Mappy\\Core.Mappy.csproj"
+              "C:\\Users\\mateo.iglesias\\source\\repos\\Curso.NET\\S01E02_antes_\\libs\\Core.Mappy\\Core.Mappy.csproj": {
+                "projectPath": "C:\\Users\\mateo.iglesias\\source\\repos\\Curso.NET\\S01E02_antes_\\libs\\Core.Mappy\\Core.Mappy.csproj"
               },
-              "C:\\MasterNet\\libs\\Core.MediatOR\\Core.MediatOR.csproj": {
-                "projectPath": "C:\\MasterNet\\libs\\Core.MediatOR\\Core.MediatOR.csproj"
+              "C:\\Users\\mateo.iglesias\\source\\repos\\Curso.NET\\S01E02_antes_\\libs\\Core.MediatOR\\Core.MediatOR.csproj": {
+                "projectPath": "C:\\Users\\mateo.iglesias\\source\\repos\\Curso.NET\\S01E02_antes_\\libs\\Core.MediatOR\\Core.MediatOR.csproj"
               },
-              "C:\\MasterNet\\src\\MasterNet.Domain\\MasterNet.Domain.csproj": {
-                "projectPath": "C:\\MasterNet\\src\\MasterNet.Domain\\MasterNet.Domain.csproj"
+              "C:\\Users\\mateo.iglesias\\source\\repos\\Curso.NET\\S01E02_antes_\\src\\MasterNet.Domain\\MasterNet.Domain.csproj": {
+                "projectPath": "C:\\Users\\mateo.iglesias\\source\\repos\\Curso.NET\\S01E02_antes_\\src\\MasterNet.Domain\\MasterNet.Domain.csproj"
               },
-              "C:\\MasterNet\\src\\MasterNet.Persistence\\MasterNet.Persistence.csproj": {
-                "projectPath": "C:\\MasterNet\\src\\MasterNet.Persistence\\MasterNet.Persistence.csproj"
+              "C:\\Users\\mateo.iglesias\\source\\repos\\Curso.NET\\S01E02_antes_\\src\\MasterNet.Persistence\\MasterNet.Persistence.csproj": {
+                "projectPath": "C:\\Users\\mateo.iglesias\\source\\repos\\Curso.NET\\S01E02_antes_\\src\\MasterNet.Persistence\\MasterNet.Persistence.csproj"
               }
             }
           }
@@ -921,7 +920,7 @@
             "System.Buffers": "(,5.0.32767]",
             "System.Collections": "(,4.3.32767]",
             "System.Collections.Concurrent": "(,4.3.32767]",
-            "System.Collections.Immutable": "(,10.0.0-rc.1.25451.107]",
+            "System.Collections.Immutable": "(,10.0.32767]",
             "System.Collections.NonGeneric": "(,4.3.32767]",
             "System.Collections.Specialized": "(,4.3.32767]",
             "System.ComponentModel": "(,4.3.32767]",
@@ -934,7 +933,7 @@
             "System.Data.DataSetExtensions": "(,4.4.32767]",
             "System.Diagnostics.Contracts": "(,4.3.32767]",
             "System.Diagnostics.Debug": "(,4.3.32767]",
-            "System.Diagnostics.DiagnosticSource": "(,10.0.0-rc.1.25451.107]",
+            "System.Diagnostics.DiagnosticSource": "(,10.0.32767]",
             "System.Diagnostics.FileVersionInfo": "(,4.3.32767]",
             "System.Diagnostics.Process": "(,4.3.32767]",
             "System.Diagnostics.StackTrace": "(,4.3.32767]",
@@ -944,8 +943,8 @@
             "System.Diagnostics.Tracing": "(,4.3.32767]",
             "System.Drawing.Primitives": "(,4.3.32767]",
             "System.Dynamic.Runtime": "(,4.3.32767]",
-            "System.Formats.Asn1": "(,10.0.0-rc.1.25451.107]",
-            "System.Formats.Tar": "(,10.0.0-rc.1.25451.107]",
+            "System.Formats.Asn1": "(,10.0.32767]",
+            "System.Formats.Tar": "(,10.0.32767]",
             "System.Globalization": "(,4.3.32767]",
             "System.Globalization.Calendars": "(,4.3.32767]",
             "System.Globalization.Extensions": "(,4.3.32767]",
@@ -959,25 +958,25 @@
             "System.IO.FileSystem.Watcher": "(,4.3.32767]",
             "System.IO.IsolatedStorage": "(,4.3.32767]",
             "System.IO.MemoryMappedFiles": "(,4.3.32767]",
-            "System.IO.Pipelines": "(,10.0.0-rc.1.25451.107]",
+            "System.IO.Pipelines": "(,10.0.32767]",
             "System.IO.Pipes": "(,4.3.32767]",
             "System.IO.Pipes.AccessControl": "(,5.0.32767]",
             "System.IO.UnmanagedMemoryStream": "(,4.3.32767]",
             "System.Linq": "(,4.3.32767]",
-            "System.Linq.AsyncEnumerable": "(,10.0.0-rc.1.25451.107]",
+            "System.Linq.AsyncEnumerable": "(,10.0.32767]",
             "System.Linq.Expressions": "(,4.3.32767]",
             "System.Linq.Parallel": "(,4.3.32767]",
             "System.Linq.Queryable": "(,4.3.32767]",
             "System.Memory": "(,5.0.32767]",
             "System.Net.Http": "(,4.3.32767]",
-            "System.Net.Http.Json": "(,10.0.0-rc.1.25451.107]",
+            "System.Net.Http.Json": "(,10.0.32767]",
             "System.Net.NameResolution": "(,4.3.32767]",
             "System.Net.NetworkInformation": "(,4.3.32767]",
             "System.Net.Ping": "(,4.3.32767]",
             "System.Net.Primitives": "(,4.3.32767]",
             "System.Net.Requests": "(,4.3.32767]",
             "System.Net.Security": "(,4.3.32767]",
-            "System.Net.ServerSentEvents": "(,10.0.0-rc.1.25451.107]",
+            "System.Net.ServerSentEvents": "(,10.0.32767]",
             "System.Net.Sockets": "(,4.3.32767]",
             "System.Net.WebHeaderCollection": "(,4.3.32767]",
             "System.Net.WebSockets": "(,4.3.32767]",
@@ -992,7 +991,7 @@
             "System.Reflection.Emit.ILGeneration": "(,4.7.32767]",
             "System.Reflection.Emit.Lightweight": "(,4.7.32767]",
             "System.Reflection.Extensions": "(,4.3.32767]",
-            "System.Reflection.Metadata": "(,10.0.0-rc.1.25451.107]",
+            "System.Reflection.Metadata": "(,10.0.32767]",
             "System.Reflection.Primitives": "(,4.3.32767]",
             "System.Reflection.TypeExtensions": "(,4.3.32767]",
             "System.Resources.Reader": "(,4.3.32767]",
@@ -1024,16 +1023,17 @@
             "System.Security.Principal.Windows": "(,5.0.32767]",
             "System.Security.SecureString": "(,4.3.32767]",
             "System.Text.Encoding": "(,4.3.32767]",
-            "System.Text.Encoding.CodePages": "(,10.0.0-rc.1.25451.107]",
+            "System.Text.Encoding.CodePages": "(,10.0.32767]",
             "System.Text.Encoding.Extensions": "(,4.3.32767]",
-            "System.Text.Encodings.Web": "(,10.0.0-rc.1.25451.107]",
-            "System.Text.Json": "(,10.0.0-rc.1.25451.107]",
+            "System.Text.Encodings.Web": "(,10.0.32767]",
+            "System.Text.Json": "(,10.0.32767]",
             "System.Text.RegularExpressions": "(,4.3.32767]",
             "System.Threading": "(,4.3.32767]",
-            "System.Threading.Channels": "(,10.0.0-rc.1.25451.107]",
+            "System.Threading.AccessControl": "(,10.0.32767]",
+            "System.Threading.Channels": "(,10.0.32767]",
             "System.Threading.Overlapped": "(,4.3.32767]",
             "System.Threading.Tasks": "(,4.3.32767]",
-            "System.Threading.Tasks.Dataflow": "(,10.0.0-rc.1.25451.107]",
+            "System.Threading.Tasks.Dataflow": "(,10.0.32767]",
             "System.Threading.Tasks.Extensions": "(,5.0.32767]",
             "System.Threading.Tasks.Parallel": "(,4.3.32767]",
             "System.Threading.Thread": "(,4.3.32767]",
@@ -1050,20 +1050,20 @@
         }
       }
     },
-    "C:\\MasterNet\\src\\MasterNet.Domain\\MasterNet.Domain.csproj": {
+    "C:\\Users\\mateo.iglesias\\source\\repos\\Curso.NET\\S01E02_antes_\\src\\MasterNet.Domain\\MasterNet.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\MasterNet\\src\\MasterNet.Domain\\MasterNet.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\mateo.iglesias\\source\\repos\\Curso.NET\\S01E02_antes_\\src\\MasterNet.Domain\\MasterNet.Domain.csproj",
         "projectName": "MasterNet.Domain",
-        "projectPath": "C:\\MasterNet\\src\\MasterNet.Domain\\MasterNet.Domain.csproj",
-        "packagesPath": "C:\\Users\\javix\\.nuget\\packages\\",
-        "outputPath": "C:\\MasterNet\\src\\MasterNet.Domain\\obj\\",
+        "projectPath": "C:\\Users\\mateo.iglesias\\source\\repos\\Curso.NET\\S01E02_antes_\\src\\MasterNet.Domain\\MasterNet.Domain.csproj",
+        "packagesPath": "C:\\Users\\mateo.iglesias\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mateo.iglesias\\source\\repos\\Curso.NET\\S01E02_antes_\\src\\MasterNet.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\javix\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mateo.iglesias\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -1072,7 +1072,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -1260,7 +1259,7 @@
             "System.Buffers": "(,5.0.32767]",
             "System.Collections": "(,4.3.32767]",
             "System.Collections.Concurrent": "(,4.3.32767]",
-            "System.Collections.Immutable": "(,10.0.0-rc.1.25451.107]",
+            "System.Collections.Immutable": "(,10.0.32767]",
             "System.Collections.NonGeneric": "(,4.3.32767]",
             "System.Collections.Specialized": "(,4.3.32767]",
             "System.ComponentModel": "(,4.3.32767]",
@@ -1273,7 +1272,7 @@
             "System.Data.DataSetExtensions": "(,4.4.32767]",
             "System.Diagnostics.Contracts": "(,4.3.32767]",
             "System.Diagnostics.Debug": "(,4.3.32767]",
-            "System.Diagnostics.DiagnosticSource": "(,10.0.0-rc.1.25451.107]",
+            "System.Diagnostics.DiagnosticSource": "(,10.0.32767]",
             "System.Diagnostics.FileVersionInfo": "(,4.3.32767]",
             "System.Diagnostics.Process": "(,4.3.32767]",
             "System.Diagnostics.StackTrace": "(,4.3.32767]",
@@ -1283,8 +1282,8 @@
             "System.Diagnostics.Tracing": "(,4.3.32767]",
             "System.Drawing.Primitives": "(,4.3.32767]",
             "System.Dynamic.Runtime": "(,4.3.32767]",
-            "System.Formats.Asn1": "(,10.0.0-rc.1.25451.107]",
-            "System.Formats.Tar": "(,10.0.0-rc.1.25451.107]",
+            "System.Formats.Asn1": "(,10.0.32767]",
+            "System.Formats.Tar": "(,10.0.32767]",
             "System.Globalization": "(,4.3.32767]",
             "System.Globalization.Calendars": "(,4.3.32767]",
             "System.Globalization.Extensions": "(,4.3.32767]",
@@ -1298,25 +1297,25 @@
             "System.IO.FileSystem.Watcher": "(,4.3.32767]",
             "System.IO.IsolatedStorage": "(,4.3.32767]",
             "System.IO.MemoryMappedFiles": "(,4.3.32767]",
-            "System.IO.Pipelines": "(,10.0.0-rc.1.25451.107]",
+            "System.IO.Pipelines": "(,10.0.32767]",
             "System.IO.Pipes": "(,4.3.32767]",
             "System.IO.Pipes.AccessControl": "(,5.0.32767]",
             "System.IO.UnmanagedMemoryStream": "(,4.3.32767]",
             "System.Linq": "(,4.3.32767]",
-            "System.Linq.AsyncEnumerable": "(,10.0.0-rc.1.25451.107]",
+            "System.Linq.AsyncEnumerable": "(,10.0.32767]",
             "System.Linq.Expressions": "(,4.3.32767]",
             "System.Linq.Parallel": "(,4.3.32767]",
             "System.Linq.Queryable": "(,4.3.32767]",
             "System.Memory": "(,5.0.32767]",
             "System.Net.Http": "(,4.3.32767]",
-            "System.Net.Http.Json": "(,10.0.0-rc.1.25451.107]",
+            "System.Net.Http.Json": "(,10.0.32767]",
             "System.Net.NameResolution": "(,4.3.32767]",
             "System.Net.NetworkInformation": "(,4.3.32767]",
             "System.Net.Ping": "(,4.3.32767]",
             "System.Net.Primitives": "(,4.3.32767]",
             "System.Net.Requests": "(,4.3.32767]",
             "System.Net.Security": "(,4.3.32767]",
-            "System.Net.ServerSentEvents": "(,10.0.0-rc.1.25451.107]",
+            "System.Net.ServerSentEvents": "(,10.0.32767]",
             "System.Net.Sockets": "(,4.3.32767]",
             "System.Net.WebHeaderCollection": "(,4.3.32767]",
             "System.Net.WebSockets": "(,4.3.32767]",
@@ -1331,7 +1330,7 @@
             "System.Reflection.Emit.ILGeneration": "(,4.7.32767]",
             "System.Reflection.Emit.Lightweight": "(,4.7.32767]",
             "System.Reflection.Extensions": "(,4.3.32767]",
-            "System.Reflection.Metadata": "(,10.0.0-rc.1.25451.107]",
+            "System.Reflection.Metadata": "(,10.0.32767]",
             "System.Reflection.Primitives": "(,4.3.32767]",
             "System.Reflection.TypeExtensions": "(,4.3.32767]",
             "System.Resources.Reader": "(,4.3.32767]",
@@ -1363,16 +1362,17 @@
             "System.Security.Principal.Windows": "(,5.0.32767]",
             "System.Security.SecureString": "(,4.3.32767]",
             "System.Text.Encoding": "(,4.3.32767]",
-            "System.Text.Encoding.CodePages": "(,10.0.0-rc.1.25451.107]",
+            "System.Text.Encoding.CodePages": "(,10.0.32767]",
             "System.Text.Encoding.Extensions": "(,4.3.32767]",
-            "System.Text.Encodings.Web": "(,10.0.0-rc.1.25451.107]",
-            "System.Text.Json": "(,10.0.0-rc.1.25451.107]",
+            "System.Text.Encodings.Web": "(,10.0.32767]",
+            "System.Text.Json": "(,10.0.32767]",
             "System.Text.RegularExpressions": "(,4.3.32767]",
             "System.Threading": "(,4.3.32767]",
-            "System.Threading.Channels": "(,10.0.0-rc.1.25451.107]",
+            "System.Threading.AccessControl": "(,10.0.32767]",
+            "System.Threading.Channels": "(,10.0.32767]",
             "System.Threading.Overlapped": "(,4.3.32767]",
             "System.Threading.Tasks": "(,4.3.32767]",
-            "System.Threading.Tasks.Dataflow": "(,10.0.0-rc.1.25451.107]",
+            "System.Threading.Tasks.Dataflow": "(,10.0.32767]",
             "System.Threading.Tasks.Extensions": "(,5.0.32767]",
             "System.Threading.Tasks.Parallel": "(,4.3.32767]",
             "System.Threading.Thread": "(,4.3.32767]",
@@ -1389,20 +1389,20 @@
         }
       }
     },
-    "C:\\MasterNet\\src\\MasterNet.Persistence\\MasterNet.Persistence.csproj": {
+    "C:\\Users\\mateo.iglesias\\source\\repos\\Curso.NET\\S01E02_antes_\\src\\MasterNet.Persistence\\MasterNet.Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\MasterNet\\src\\MasterNet.Persistence\\MasterNet.Persistence.csproj",
+        "projectUniqueName": "C:\\Users\\mateo.iglesias\\source\\repos\\Curso.NET\\S01E02_antes_\\src\\MasterNet.Persistence\\MasterNet.Persistence.csproj",
         "projectName": "MasterNet.Persistence",
-        "projectPath": "C:\\MasterNet\\src\\MasterNet.Persistence\\MasterNet.Persistence.csproj",
-        "packagesPath": "C:\\Users\\javix\\.nuget\\packages\\",
-        "outputPath": "C:\\MasterNet\\src\\MasterNet.Persistence\\obj\\",
+        "projectPath": "C:\\Users\\mateo.iglesias\\source\\repos\\Curso.NET\\S01E02_antes_\\src\\MasterNet.Persistence\\MasterNet.Persistence.csproj",
+        "packagesPath": "C:\\Users\\mateo.iglesias\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mateo.iglesias\\source\\repos\\Curso.NET\\S01E02_antes_\\src\\MasterNet.Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\javix\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mateo.iglesias\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -1411,15 +1411,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\MasterNet\\src\\MasterNet.Domain\\MasterNet.Domain.csproj": {
-                "projectPath": "C:\\MasterNet\\src\\MasterNet.Domain\\MasterNet.Domain.csproj"
+              "C:\\Users\\mateo.iglesias\\source\\repos\\Curso.NET\\S01E02_antes_\\src\\MasterNet.Domain\\MasterNet.Domain.csproj": {
+                "projectPath": "C:\\Users\\mateo.iglesias\\source\\repos\\Curso.NET\\S01E02_antes_\\src\\MasterNet.Domain\\MasterNet.Domain.csproj"
               }
             }
           }
@@ -1451,6 +1450,14 @@
             "Microsoft.AspNetCore.OData": {
               "target": "Package",
               "version": "[9.4.0, )"
+            },
+            "Microsoft.Build.Tasks.Core": {
+              "target": "Package",
+              "version": "[17.15.0, )"
+            },
+            "Microsoft.Build.Utilities.Core": {
+              "target": "Package",
+              "version": "[17.15.0, )"
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
@@ -1645,7 +1652,7 @@
             "System.Buffers": "(,5.0.32767]",
             "System.Collections": "(,4.3.32767]",
             "System.Collections.Concurrent": "(,4.3.32767]",
-            "System.Collections.Immutable": "(,10.0.0-rc.1.25451.107]",
+            "System.Collections.Immutable": "(,10.0.32767]",
             "System.Collections.NonGeneric": "(,4.3.32767]",
             "System.Collections.Specialized": "(,4.3.32767]",
             "System.ComponentModel": "(,4.3.32767]",
@@ -1658,7 +1665,7 @@
             "System.Data.DataSetExtensions": "(,4.4.32767]",
             "System.Diagnostics.Contracts": "(,4.3.32767]",
             "System.Diagnostics.Debug": "(,4.3.32767]",
-            "System.Diagnostics.DiagnosticSource": "(,10.0.0-rc.1.25451.107]",
+            "System.Diagnostics.DiagnosticSource": "(,10.0.32767]",
             "System.Diagnostics.FileVersionInfo": "(,4.3.32767]",
             "System.Diagnostics.Process": "(,4.3.32767]",
             "System.Diagnostics.StackTrace": "(,4.3.32767]",
@@ -1668,8 +1675,8 @@
             "System.Diagnostics.Tracing": "(,4.3.32767]",
             "System.Drawing.Primitives": "(,4.3.32767]",
             "System.Dynamic.Runtime": "(,4.3.32767]",
-            "System.Formats.Asn1": "(,10.0.0-rc.1.25451.107]",
-            "System.Formats.Tar": "(,10.0.0-rc.1.25451.107]",
+            "System.Formats.Asn1": "(,10.0.32767]",
+            "System.Formats.Tar": "(,10.0.32767]",
             "System.Globalization": "(,4.3.32767]",
             "System.Globalization.Calendars": "(,4.3.32767]",
             "System.Globalization.Extensions": "(,4.3.32767]",
@@ -1683,25 +1690,25 @@
             "System.IO.FileSystem.Watcher": "(,4.3.32767]",
             "System.IO.IsolatedStorage": "(,4.3.32767]",
             "System.IO.MemoryMappedFiles": "(,4.3.32767]",
-            "System.IO.Pipelines": "(,10.0.0-rc.1.25451.107]",
+            "System.IO.Pipelines": "(,10.0.32767]",
             "System.IO.Pipes": "(,4.3.32767]",
             "System.IO.Pipes.AccessControl": "(,5.0.32767]",
             "System.IO.UnmanagedMemoryStream": "(,4.3.32767]",
             "System.Linq": "(,4.3.32767]",
-            "System.Linq.AsyncEnumerable": "(,10.0.0-rc.1.25451.107]",
+            "System.Linq.AsyncEnumerable": "(,10.0.32767]",
             "System.Linq.Expressions": "(,4.3.32767]",
             "System.Linq.Parallel": "(,4.3.32767]",
             "System.Linq.Queryable": "(,4.3.32767]",
             "System.Memory": "(,5.0.32767]",
             "System.Net.Http": "(,4.3.32767]",
-            "System.Net.Http.Json": "(,10.0.0-rc.1.25451.107]",
+            "System.Net.Http.Json": "(,10.0.32767]",
             "System.Net.NameResolution": "(,4.3.32767]",
             "System.Net.NetworkInformation": "(,4.3.32767]",
             "System.Net.Ping": "(,4.3.32767]",
             "System.Net.Primitives": "(,4.3.32767]",
             "System.Net.Requests": "(,4.3.32767]",
             "System.Net.Security": "(,4.3.32767]",
-            "System.Net.ServerSentEvents": "(,10.0.0-rc.1.25451.107]",
+            "System.Net.ServerSentEvents": "(,10.0.32767]",
             "System.Net.Sockets": "(,4.3.32767]",
             "System.Net.WebHeaderCollection": "(,4.3.32767]",
             "System.Net.WebSockets": "(,4.3.32767]",
@@ -1716,7 +1723,7 @@
             "System.Reflection.Emit.ILGeneration": "(,4.7.32767]",
             "System.Reflection.Emit.Lightweight": "(,4.7.32767]",
             "System.Reflection.Extensions": "(,4.3.32767]",
-            "System.Reflection.Metadata": "(,10.0.0-rc.1.25451.107]",
+            "System.Reflection.Metadata": "(,10.0.32767]",
             "System.Reflection.Primitives": "(,4.3.32767]",
             "System.Reflection.TypeExtensions": "(,4.3.32767]",
             "System.Resources.Reader": "(,4.3.32767]",
@@ -1748,16 +1755,17 @@
             "System.Security.Principal.Windows": "(,5.0.32767]",
             "System.Security.SecureString": "(,4.3.32767]",
             "System.Text.Encoding": "(,4.3.32767]",
-            "System.Text.Encoding.CodePages": "(,10.0.0-rc.1.25451.107]",
+            "System.Text.Encoding.CodePages": "(,10.0.32767]",
             "System.Text.Encoding.Extensions": "(,4.3.32767]",
-            "System.Text.Encodings.Web": "(,10.0.0-rc.1.25451.107]",
-            "System.Text.Json": "(,10.0.0-rc.1.25451.107]",
+            "System.Text.Encodings.Web": "(,10.0.32767]",
+            "System.Text.Json": "(,10.0.32767]",
             "System.Text.RegularExpressions": "(,4.3.32767]",
             "System.Threading": "(,4.3.32767]",
-            "System.Threading.Channels": "(,10.0.0-rc.1.25451.107]",
+            "System.Threading.AccessControl": "(,10.0.32767]",
+            "System.Threading.Channels": "(,10.0.32767]",
             "System.Threading.Overlapped": "(,4.3.32767]",
             "System.Threading.Tasks": "(,4.3.32767]",
-            "System.Threading.Tasks.Dataflow": "(,10.0.0-rc.1.25451.107]",
+            "System.Threading.Tasks.Dataflow": "(,10.0.32767]",
             "System.Threading.Tasks.Extensions": "(,5.0.32767]",
             "System.Threading.Tasks.Parallel": "(,4.3.32767]",
             "System.Threading.Thread": "(,4.3.32767]",
